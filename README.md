@@ -1,2 +1,3 @@
-# flex-content-cms-x2bq
-A content management system for modern development workflows
+# Flex Content Cms X2Bq
+
+A content management system for modern development workflows.
